@@ -1,0 +1,28 @@
+[
+    {
+        "Id": 1,
+        "Name": "John Doe",
+        "StartLocation": "City A",
+        "EndLocation": "City B"
+    },
+    {
+        "Id": 2,
+        "Name": "Jane Smith",
+        "StartLocation": "City C",
+        "EndLocation": "City D"
+    },
+    {
+        "Id": 3,
+        "Name": "Awadhesh",
+        "StartLocation": "City E",
+        "EndLocation": "City F"
+    },
+
+    {
+        "Id": 4,
+        "Name": "Ram",
+        "StartLocation": "City G",
+        "EndLocation": "City H"
+        
+    },
+];
